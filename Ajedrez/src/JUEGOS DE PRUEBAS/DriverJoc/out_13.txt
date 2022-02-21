@@ -1,0 +1,43 @@
+Esto es el Driver del Joc, elige una de las opciones siguientes:
+0. Salir
+1. Creadora de Joc
+2. Comprobar Borra()
+3. Comprobar EligeProblema()
+4. Comprobar getMatrix() de un problema
+5. Comprobar getMatrix() de un fen
+6. Comprobar getFen
+7. Comprobar getTema
+8. Comprobar getFicha
+9. Comprobar MainStartup()
+10. Comprobar afegirProb()
+11. Comprobar afegeixPub()
+12. Comprobar minimax
+13. Comprobar FenCorrecto
+14. Comprobar Registra
+15. Comprobar Crear_Problema
+16. Comprobar hacer_ranking
+17. Comprobar Modificar
+18. Comprobar LogIn
+19. Comprobar tryToMoveFicha
+20. Comprobar moverFicha
+21. Comprobar comprovaDuplo
+22. Comprobar temafine
+23. Comprobar checkID
+24. Comprobar valid_name
+25. Comprobar valid_pass
+Joc creado con exito
+Introduce una contraseña (Ejemplo : Diana1998 )
+La funcion devuelve valores correctos
+La contraseña se acepta
+Introduce una contraseña (Ejemplo : Diana1998 )
+La funcion devuelve valores correctos
+La contraseña está mal, falta una mayuscula
+Introduce una contraseña (Ejemplo : Diana1998 )
+La funcion devuelve valores correctos
+La contraseña está mal, falta un numero
+Introduce una contraseña (Ejemplo : Diana1998 )
+La funcion devuelve valores correctos
+La contraseña está mal, falta una minuscula
+Introduce una contraseña (Ejemplo : Diana1998 )
+La funcion devuelve valores correctos
+La contraseña está mal, la medida no es la que toca

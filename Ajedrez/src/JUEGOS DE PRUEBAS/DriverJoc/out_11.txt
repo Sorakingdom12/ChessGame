@@ -1,0 +1,32 @@
+Esto es el Driver del Joc, elige una de las opciones siguientes:
+0. Salir
+1. Creadora de Joc
+2. Comprobar Borra()
+3. Comprobar EligeProblema()
+4. Comprobar getMatrix() de un problema
+5. Comprobar getMatrix() de un fen
+6. Comprobar getFen
+7. Comprobar getTema
+8. Comprobar getFicha
+9. Comprobar MainStartup()
+10. Comprobar afegirProb()
+11. Comprobar afegeixPub()
+12. Comprobar minimax
+13. Comprobar FenCorrecto
+14. Comprobar Registra
+15. Comprobar Crear_Problema
+16. Comprobar hacer_ranking
+17. Comprobar Modificar
+18. Comprobar LogIn
+19. Comprobar tryToMoveFicha
+20. Comprobar moverFicha
+21. Comprobar comprovaDuplo
+22. Comprobar temafine
+24. Comprobar checkID
+25. Comprobar valid_name
+26. Comprobar valid_pass
+Joc creado con exito
+Introduce un tema (Ejemplo : 1 )
+Tema es correcto
+Introduce un tema (Ejemplo : 1 )
+Tema es incorrecto

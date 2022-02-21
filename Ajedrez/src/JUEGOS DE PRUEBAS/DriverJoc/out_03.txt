@@ -1,0 +1,34 @@
+Esto es el Driver del Joc, elige una de las opciones siguientes:
+0. Salir
+1. Creadora de Joc
+2. Comprobar Borra()
+3. Comprobar EligeProblema()
+4. Comprobar getMatrix() de un problema
+5. Comprobar getMatrix() de un fen
+6. Comprobar getFen
+7. Comprobar getTema
+9. Comprobar getFicha
+10. Comprobar MainStartup()
+11. Comprobar afegirProb()
+12. Comprobar afegeixPub
+13. Comprobar Registra
+14. Comprobar Crear_Problema
+15. Comprobar hacer_ranking
+16. Comprobar Modificar
+17. Comprobar LogIn
+18. Comprobar tryToMoveFicha
+19. Comprobar moveFicha
+20. Comprobar minimax
+21. Comprobar FenCorrecto
+22. Comprobar comprovaDuplo
+23. Comprobar temafine
+24. Comprobar checkID
+25. Comprobar valid_name
+26. Comprobar valid_pass
+Joc creado con exito
+ Escribe de donde quieres escoger el problema, publicos o privados (Ejemplo : publicos ) 
+ Escribe que mate quieres, 1, 2, 3, ... (Ejemplo : 1 ) 
+ Escribe que dificultad quieres, facil, media o dificil (Ejemplo : facil ) 
+ Escribe que color quieres, blanco o negro (Ejemplo : blanco ) 
+publicos 1 facil blanco
+Problemas encontrados y elegidos correctamente

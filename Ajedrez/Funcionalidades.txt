@@ -1,0 +1,93 @@
+--------------------Proyecto ajedrez Lista De Funcionalidades--------------------
+
+-   Gestión Usuario
+    +   login
+    +   registro 
+    +   [baja/modificación]
+    
+-   Jugar Partida
+    +	H1 VS H2
+    +	H vs M1
+    +	H vs M2
+    +	Mi vs Mj amb i,j pertanyen {1,2}, essent possible que i = j.
+
+-   Crear Partida
+    +   JDR 1 "principal, a quien pertenece la sesión"
+    +   JDR 2 "oponente, invitado"
+    +   Tiempo
+    +   numero del problema
+
+-   Alta/Consulta [/Modificación/Baja] del Problema
+    +   nombre del problema
+    +   [estrategias]
+    +   mates en n
+    +   [dificutlad]
+    
+-   Salvar/Cargar Partida
+
+-   Pausar Partida
+
+-   Abandonar Partida
+
+-   Mantener Ranking
+    +   de partida de ese problema jugado, en teoría cada problema tiene su Ranking"
+    +   de usuario
+
+-   Consultar Ranking 
+
+-   Consultar Niveles
+
+-   Consultar Temas "Tema = mate en n y que color lo hace"
+
+-   Consultar Problemas
+
+-   [Gestión Torneos]
+
+-   [Existencia de Plantillas de Problemas] " para cuando creas problemas una ayudita ;) "
+
+-   [Existencia de Problemas "publicos"]
+
+-   [Consulta De Reglamento y Movimientos de Fichas]
+
+-   [Pedir Pista]
+    
+ 
+   
+Comentarios :
+
+   cuando creas un problema, comprobar que tiene solución
+   la máquina ha de tener dos algoritmos, uno simple y otro mas complejo
+   si juega una máquina contra otra máquina, se tienen que poner mas de un problema 
+   
+  
+   
+Aclaraciones :
+
+    "cargar = continuar" 
+    "Tema = mate en n y que color lo hace"
+    
+  
+    
+/*---------------------------------//lo de clase-------------------------------------------------------*/
+
+* 	Alta [modificar / baja] Problema
+
+*   Jugar Partida :
+	+	H1 VS H2
+	+	H vs M1
+	+	H vs M2
+	+	Mi vs Mj amb i,j pertanyen {1,2}, essent possible que i = j.
+
+* 	Cargar Problema
+
+* 	Continuar / Salvar Problema
+
+* 	Abandonar Partida
+
+* 	Pausar Partida 
+
+* 	Consultar Niveles/ Problemas 	
+
+* 	Mantener / Mostrar Ranking por Problema " ¿ mostrar y consultar Ranking no es lo mismo ? "
+
+* 	Consultar Ranking

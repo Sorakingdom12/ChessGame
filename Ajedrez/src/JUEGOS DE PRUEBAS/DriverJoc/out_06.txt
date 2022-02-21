@@ -1,0 +1,43 @@
+Esto es el Driver del Joc, elige una de las opciones siguientes:
+0. Salir
+1. Creadora de Joc
+2. Comprobar Borra()
+3. Comprobar EligeProblema()
+4. Comprobar getMatrix() de un problema
+5. Comprobar getMatrix() de un fen
+6. Comprobar getFen
+7. Comprobar getTema
+8. Comprobar getFicha
+9. Comprobar MainStartup()
+10. Comprobar afegirProb()
+12. Comprobar afegeixPub
+13. Comprobar Registra
+14. Comprobar Crear_Problema
+15. Comprobar hacer_ranking
+16. Comprobar Modificar
+17. Comprobar LogIn
+18. Comprobar tryToMoveFicha
+19. Comprobar moveFicha
+20. Comprobar minimax
+21. Comprobar FenCorrecto
+22. Comprobar comprovaDuplo
+23. Comprobar temafine
+24. Comprobar checkID
+25. Comprobar valid_name
+26. Comprobar valid_pass
+Joc creado con exito
+ Estos son los problemas que tienes en tu base de datos: 
+Problema 0 , Fen R7/2pk4/1pN3p1/1Pn3P1/2Q3bP/5q2/1P2r3/2K5 w - - 0 1 , Tema 1
+Problema 1 , Fen 6k1/ppp3pp/2n1p3/8/3Pq3/PN4Q1/1P3rRP/5rRK b - - 0 1 , Tema 2
+Problema 2 , Fen Q4R2/3kr3/1q3n1p/2p1p1p1/1p1bP1P1/1B1P3P/2PBK3/8 w - - 0 1 , Tema 3
+Procedemos a crear un problema:
+Asumimos que el fen no esta en la base de datos porque eso se comprueba en otra fucnion
+ - introduce un fen (Ejemplo : R7/2pk4/1pN3p1/1Pn3P1/2Q3bP/5q2/1P2r3/2K5 w - - 0 1 )
+ - introduce un tema (Ejemplo : 1 )
+Procedemos a crear el problema con fen 1q2r3/k4p2/prQ2b1p/R7/1PP1B1p1/6P1/P5K1/8 w - - 0 1 y con tema 3
+ Estos son los problemas que tienes en tu base de datos: 
+Problema 0 , Fen R7/2pk4/1pN3p1/1Pn3P1/2Q3bP/5q2/1P2r3/2K5 w - - 0 1 , Tema 1
+Problema 1 , Fen 6k1/ppp3pp/2n1p3/8/3Pq3/PN4Q1/1P3rRP/5rRK b - - 0 1 , Tema 2
+Problema 2 , Fen Q4R2/3kr3/1q3n1p/2p1p1p1/1p1bP1P1/1B1P3P/2PBK3/8 w - - 0 1 , Tema 3
+Problema 3 , Fen 1q2r3/k4p2/prQ2b1p/R7/1PP1B1p1/6P1/P5K1/8 w - - 0 1 , Tema 3
+Problemas se ha añadido correctamente

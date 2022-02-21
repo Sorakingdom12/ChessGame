@@ -1,0 +1,1 @@
+Es Necesario situar los ficheros adjuntos con el ejecutable para el correcto funcionamiento.

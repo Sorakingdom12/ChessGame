@@ -1,0 +1,3 @@
+para compilar : # make
+para ejecutar : # java Presentacion/Main
+para eliminar los nom.class : # make clean

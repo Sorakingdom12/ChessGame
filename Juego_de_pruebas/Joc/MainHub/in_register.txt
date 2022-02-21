@@ -1,0 +1,4 @@
+register
+Pedro
+Pedro2001
+salir

@@ -1,0 +1,18 @@
+register
+Diana
+Diana1998
+login
+Diana
+Diana1998
+Jugar Partida
+2
+facil
+blanco
+Publicos
+0
+Humano
+IA
+g5
+g6
+g4
+g6

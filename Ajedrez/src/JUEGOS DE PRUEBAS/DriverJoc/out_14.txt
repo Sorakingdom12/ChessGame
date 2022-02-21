@@ -1,0 +1,100 @@
+Esto es el Driver del Joc, elige una de las opciones siguientes:
+0. Salir
+1. Creadora de Joc
+2. Comprobar Borra()
+3. Comprobar EligeProblema()
+4. Comprobar getMatrix() de un problema
+5. Comprobar getMatrix() de un fen
+6. Comprobar getFen
+7. Comprobar getTema
+8. Comprobar getFicha
+9. Comprobar MainStartup()
+10. Comprobar afegirProb()
+11. Comprobar afegeixPub()
+12. Comprobar minimax
+13. Comprobar FenCorrecto
+14. Comprobar Registra
+15. Comprobar Crear_Problema
+16. Comprobar hacer_ranking
+17. Comprobar Modificar
+18. Comprobar LogIn
+19. Comprobar tryToMoveFicha
+20. Comprobar moverFicha
+21. Comprobar comprovaDuplo
+22. Comprobar temafine
+23. Comprobar checkID
+24. Comprobar valid_name
+25. Comprobar valid_pass
+Joc creado con exito
+Introduce un fen (Ejemplo : R7/2pk4/1pN3p1/1Pn3P1/2Q3bP/5q2/1P2r3/2K5 w - - 0 1  )
+  +---+---+---+---+---+---+---+---+ 
+8 | R |   |   |   |   |   |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+7 |   |   | p | k |   |   |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+6 |   | p | N |   |   |   | p |   | 
+  +---+---+---+---+---+---+---+---+ 
+5 |   | P | n |   |   |   | P |   | 
+  +---+---+---+---+---+---+---+---+ 
+4 |   |   | Q |   |   |   | b | P | 
+  +---+---+---+---+---+---+---+---+ 
+3 |   |   |   |   |   | q |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+2 |   | P |   |   | r |   |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+1 |   |   | K |   |   |   |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+    a   b   c   d   e   f   g   h   
+
+
+Introduce las coordenadas de la ficha que quieres mover (Ejemplo : a1 )
+Introduce las coordenadas finales de la ficha que quieres mover (Ejemplo : a1 )
+El movimiento es realizable
+Introduce un fen (Ejemplo : R7/2pk4/1pN3p1/1Pn3P1/2Q3bP/5q2/1P2r3/2K5 w - - 0 1  )
+  +---+---+---+---+---+---+---+---+ 
+8 | R |   |   |   |   |   |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+7 |   |   | p | k |   |   |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+6 |   | p | N |   |   |   | p |   | 
+  +---+---+---+---+---+---+---+---+ 
+5 |   | P | n |   |   |   | P |   | 
+  +---+---+---+---+---+---+---+---+ 
+4 |   |   | Q |   |   |   | b | P | 
+  +---+---+---+---+---+---+---+---+ 
+3 |   |   |   |   |   | q |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+2 |   | P |   |   | r |   |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+1 |   |   | K |   |   |   |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+    a   b   c   d   e   f   g   h   
+
+
+Introduce las coordenadas de la ficha que quieres mover (Ejemplo : a1 )
+Introduce las coordenadas finales de la ficha que quieres mover (Ejemplo : a1 )
+Estas intentendo mover una ficha del otro equipo
+Introduce un fen (Ejemplo : R7/2pk4/1pN3p1/1Pn3P1/2Q3bP/5q2/1P2r3/2K5 w - - 0 1  )
+  +---+---+---+---+---+---+---+---+ 
+8 | R |   |   |   |   |   |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+7 |   |   | p | k |   |   |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+6 |   | p | N |   |   |   | p |   | 
+  +---+---+---+---+---+---+---+---+ 
+5 |   | P | n |   |   |   | P |   | 
+  +---+---+---+---+---+---+---+---+ 
+4 |   |   | Q |   |   |   | b | P | 
+  +---+---+---+---+---+---+---+---+ 
+3 |   |   |   |   |   | q |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+2 |   | P |   |   | r |   |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+1 |   |   | K |   |   |   |   |   | 
+  +---+---+---+---+---+---+---+---+ 
+    a   b   c   d   e   f   g   h   
+
+
+Introduce las coordenadas de la ficha que quieres mover (Ejemplo : a1 )
+Introduce las coordenadas finales de la ficha que quieres mover (Ejemplo : a1 )
+El movimiento no es realizable
